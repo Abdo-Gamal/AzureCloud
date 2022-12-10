@@ -1,0 +1,8 @@
+Server name :
+pdsm.database.windows.net
+
+login :
+PD
+
+pas: 
+body6123A
